@@ -1,2 +1,2 @@
-# plts
+# PLTS
 Simulasi PLTS
